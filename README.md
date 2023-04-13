@@ -4,7 +4,7 @@ All files and folders included are part of Homework(python-API) for Week 6.
 
 
 ## Intro/Objective
-The main objective is to find correlations between weather and distance between equtor. This project involves creating data frames using Python requests, APIs, and JSON traversals and map the data to build Scatter plots and Linear regression models using Pandas/Jupyter Notebook for data. 
+The main objective is to identify correlations between weather entities and their respective distance from the equator. This involves creating data frames using Python requests, APIs, and JSON traversals and map the data to build Scatter plots and Linear regression models using Pandas/Jupyter Notebook for data to validate the correlations.
 
 ### Methods Used
 * Import Python Modules (pandas, matplotlib.pyplot,scipy.stats)
